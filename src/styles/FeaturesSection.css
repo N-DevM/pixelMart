@@ -1,0 +1,14 @@
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 20px;
+  }
+  
+  .feature-item {
+    background-color: #062728;
+    color: #aaffd1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  }
+  

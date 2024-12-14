@@ -1,0 +1,46 @@
+/* Header styles */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: transparent;
+  }
+  
+  header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #7af081;
+  }
+  
+  header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+  }
+  
+  header nav ul li a {
+    text-decoration: none;
+    color: #7af081;
+    font-size: 18px;
+  }
+  
+  header nav ul li a:hover {
+    color: #aaffd1;
+  }
+  
+  header .header-actions input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  header .header-actions button {
+    padding: 10px 20px;
+    background-color: #7af081;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  

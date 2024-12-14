@@ -1,0 +1,25 @@
+.hero {
+    padding: 80px 20px;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #aaffd1;
+  }
+  
+  .hero .btn {
+    padding: 12px 24px;
+    background-color: #7af081;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .hero .btn:hover {
+    background-color: #aaffd1;
+  }
+  
